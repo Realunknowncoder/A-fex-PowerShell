@@ -3,7 +3,7 @@ It was suppose to be a full on game console but right now it's just a controller
 
 > *The controller for every broke student!*
 
-
+![Poster](https://github.com/user-attachments/assets/2e34eb03-d8dc-4ae5-9825-6d9d42ab936c)
 
 
 ## 🌟 Features
