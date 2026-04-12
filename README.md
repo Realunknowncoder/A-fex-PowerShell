@@ -29,7 +29,7 @@ You can find all the files needed in the PCB folder! Note that if you choose oth
 
 ## ⬇️ Code:
 
-For this project to work, you need to use the --- library! You can check the .ino file in the Code folder and upload it using your Arduino IDE!
+For this project to work, you need to use the HID-Project library! You can check the .ino file in the Code folder and upload it using your Arduino IDE!
 
 ## ⬇️ 3D Model:
 
